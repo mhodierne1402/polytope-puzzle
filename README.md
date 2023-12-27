@@ -1,4 +1,4 @@
-# The Polytope Permutation Puzzle
+# The Polytope Permutation Puzzle - a Kaggle Competition
 **An exploration of traditional heuristic search methods.**
 
 - Probably well beyond my capabilities to solve this puzzle, but I'm using it as an opportunity to re-learn and apply Dijkstra's algorithm.
